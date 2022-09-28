@@ -1,0 +1,13 @@
+.container {
+    background-color:tomato;
+}
+
+.daftar-container {
+    color: rgb(0, 0, 0);
+    background-color: black;
+}
+
+.nama-container {
+    background-color: aqua;
+    text-decoration: none;
+}
